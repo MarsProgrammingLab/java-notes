@@ -1,4 +1,4 @@
-# java-notes
+# Notes
 
 ## Java
 - Intro
