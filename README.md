@@ -3,7 +3,6 @@
 ## Java
 - [Intro](https://github.com/MarsProgrammingLab/java-notes/tree/main/Intro)
 - Programming Fundamentals
-- Core
 - Object-Oriented Programming
 - Exceptions, Assertions, Logging
 - Generics
