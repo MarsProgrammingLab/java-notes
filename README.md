@@ -34,7 +34,40 @@ This repository will cover basic to advanced topics in Java.
 - [Interview Preparation]()
 
 ## Fundamentals
-### Java Architecture 
+### Java Architecture
+### Basic literals
+- A program always performs operations on numbers, strings, and other values. These values are called **literals**.
+- The five literals:
+
+Boolean (boolean)
+	
+	boolean isTrue = false;
+
+Integer (int)
+	
+	int num = 25;
+
+Character (char)
+- Characters can represent letters, numbers or another symbol
+- A char is contained in single quotes
+	
+	char c = 'a';
+	
+
+
+String
+- A **String** is a sequence of individual characters and represent text information
+- A String is contained in double quotes  
+	
+	String name = "Martavias";
+
+
+
+Floating-point (float and double)
+	
+	double num = 2.2;
+	float f = 0.0f;	
+ 
 ### Data Types
 ### Variables
 ### Operations
