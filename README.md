@@ -90,7 +90,30 @@ Floating-point (float and double)
 ## Collections
 ## Concurrency 
 ## Streams 
-## Data Structures & Algorithms 
+## Data Structures & Algorithms
+### Data Structures
+#### LinkedList
+#### Stacks
+#### Queues
+#### Binary Trees
+#### Red-Black Trees
+#### 2-3-4 Trees & External Storage 
+#### Hash Tables
+#### Heaps
+#### Graphs
+#### Weighted Graphs 
+### Algorithms
+#### Brute Force
+#### Simple Sorting
+#### Recursion
+#### Advanced Sorting 
+#### Searches
+#### Graph Algorithms
+##### Breadth First Graph Traversal
+##### Depth First Graph Traversal  
+#### Divide and Conquer 
+#### Dynamic Programming 
+#### Greedy Algorithms  
 ## SQL
 ## Spring
 ### Spring Boot
