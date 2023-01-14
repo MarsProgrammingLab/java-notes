@@ -71,6 +71,25 @@ Floating-point (float and double)
 ### Data Types
 ### Variables
 ### Operations
+** Ternary Operator ** -> (`?:`), which can be thought of as shorthand for an `if-then-else` statement
+- The ternary operator is an operator which evaluates a condition and chooses one of two cases to execute.
+- Example using conditional statement:
+
+	int a = ...;
+	int b = ...;
+	int max = ...;
+	
+	if (a > b) {
+	    max = a;
+	} else {
+	    max = b;
+	} 
+
+- Example using an equivalent ternary operator:
+	
+	// If a > b is true, assign max to a, else assign max to b
+	int max = a > b ? a : b;
+	
 ### Control Flow
 ### Strings & Arrays
 ### ArrayList 
@@ -91,29 +110,30 @@ Floating-point (float and double)
 ## Concurrency 
 ## Streams 
 ## Data Structures & Algorithms
+### Big O Complexity
 ### Data Structures
-#### LinkedList
-#### Stacks
-#### Queues
-#### Binary Trees
-#### Red-Black Trees
-#### 2-3-4 Trees & External Storage 
-#### Hash Tables
-#### Heaps
-#### Graphs
-#### Weighted Graphs 
+##### LinkedList
+##### Stacks
+##### Queues
+##### Binary Trees
+##### Red-Black Trees
+##### 2-3-4 Trees & External Storage 
+##### Hash Tables
+##### Heaps
+##### Graphs
+##### Weighted Graphs 
 ### Algorithms
-#### Brute Force
-#### Simple Sorting
-#### Recursion
-#### Advanced Sorting 
-#### Searches
-#### Graph Algorithms
-##### Breadth First Graph Traversal
-##### Depth First Graph Traversal  
-#### Divide and Conquer 
-#### Dynamic Programming 
-#### Greedy Algorithms  
+##### Brute Force
+##### Simple Sorting
+##### Recursion
+##### Advanced Sorting 
+##### Searches
+##### Graph Algorithms
+###### Breadth First Graph Traversal
+###### Depth First Graph Traversal  
+##### Divide and Conquer 
+##### Dynamic Programming 
+##### Greedy Algorithms  
 ## SQL
 ## Spring
 ### Spring Boot
